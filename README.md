@@ -1,17 +1,50 @@
 # eduardo_pardo_s1
 
-A new Flutter project.
+## Autor
+Eduardo Pardo
 
-## Getting Started
+## Descripción
+Aplicación desarrollada con Flutter para la materia de Programación Móvil.
 
-This project is a starting point for a Flutter application.
+## Captura de la aplicación
 
-A few resources to get you started if this is your first Flutter project:
+![Captura de la app](captura.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Android Studio o VS Code
+- Emulador Android o dispositivo físico
+
+## Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+```
+
+2. Entrar a la carpeta del proyecto:
+
+```bash
+cd eduardo_pardo_s1
+```
+
+3. Instalar dependencias:
+
+```bash
+flutter pub get
+```
+
+4. Ejecutar la aplicación:
+
+```bash
+flutter run
+```
+
+## Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Android Studio
+- Git y GitHub
